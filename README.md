@@ -9,7 +9,10 @@ smart as show in Hogan_Configfile_Readme.pdf, showing all features of this proje
 I think it's clear. and if you any concern, please let me know. and you can contact
 me with below infos:
 QQ   : 82425753
+
 email: jie.hu.china@gmail.com
+
+Skype: skype-hogan
 
 Hope you like it and helps!
 :)
