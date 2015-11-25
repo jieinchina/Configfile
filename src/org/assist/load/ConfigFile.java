@@ -121,7 +121,7 @@ public class ConfigFile {
 				if(line.length() <= 0){
 					continue;
 				}
-				else if(line.startsWith("#") || line.startsWith("#") || line.startsWith("rem")){
+				else if(line.startsWith("#") || line.startsWith(";") || line.startsWith("rem")){
 					continue;
 				}
 				else if(line.startsWith("[") && line.endsWith("]"))
