@@ -10,7 +10,7 @@ I think it's clear. and if you any concern, please let me know. and you can cont
 me with below infos:
 QQ   : 82425753
 
-email: jie.hu.china@gmail.com
+email: hj212001@126.com
 
 Skype: skype-hogan
 
